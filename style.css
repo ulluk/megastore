@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    font-family: 'Sora', sans-serif;
+}
+.container{
+    margin-top: 120px;
+    width: 664px;
+    background-color: white;
+}
+input{
+    border-color:darkgray ;
+    border-radius: 8px;
+    height: 48px;
+}
+button{
+    height: 100%;
+    width: 100%;
+}
+p{
+    line-height: 20px;
+    font-weight: 600;
+}
+label{
+    font-family: 'Sora', sans-serif;
+    line-height: 18px;
+    font-size: 14px;
+}
+.d-flex{
+    margin-top: 40px;
+    margin-bottom: 48px;
+}
+a{
+    height: 48px;
+    width: 384px;
+    margin-left: 116px;
+    margin-top: 16px;
+}
